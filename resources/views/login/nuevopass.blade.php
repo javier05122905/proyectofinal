@@ -12,7 +12,7 @@
  
  });    
 </script>
-    <h1>Reinicio de contraseña </h1>
+    <h1>Reinicio de contraseña 2.0</h1>
     <br>
     <form>
     <input type = 'hidden' name= 'idu' value = '{{$idu}}'>
